@@ -128,7 +128,11 @@ A 'reader view' is available in most browsers. This toggle is usually directly t
 
 The blue button to the left of the star allows you to adjust the font, text size, line spacing, word spacing, character spacing, and other options to make the text more readable. You can also change the colours and contrast of the page. Below shows an example of what a scientific manuscript looks like in reader view.
 
+<hr>
+
 ![Manuscript in Biology Letters shown in reader view on the website.](img/accessibility.png)
+
+<hr>
 
 Not every website allows you to toggle to reader view, but many do. And reader view is available on most modern browsers, including Google Chrome, Firefox, and Microsoft Edge.
 
