@@ -91,6 +91,50 @@ Note that you can also share entire folders. You can do this by hovering over a 
 Clicking on the ellipses then choosing 'Share' can allow you to share an entire folder with people, which can be especially useful for collaborating in group work. 
 
 
+PDFs and accessibility options
+======================================
+
+The PDF viewer in OneDrive allows you to annotate the PDF. To make annotations, first click the 'Edit' button in the upper right (see below).
+
+<hr>
+
+![The PDF edit button is shown on the OneDrive toolbar.](img/edit_PDF.png)
+
+<hr>
+
+After you click the 'Edit' button, you will see some annotation options available in the top center (see below).
+
+<hr>
+
+![Options for annotating a PDF in OneDrive.](img/edit_PDF_options.png)
+
+<hr>
+
+All of these annotation options can be used to mark up the PDF in OneDrive, just as if you had a pen or a highlighter on a physical piece of paper. Give each of these options a try!
+
+
+Accessibility options
+------------------------------------
+
+If you find it difficult to read PDFs, or if you just prefer a more accessible option, you can often read a paper directly from the website (this doesn't just work for scientific papers; it works for other website too).
+
+A 'reader view' is available in most browsers. This toggle is usually directly to the right of the address bar (where the URL of the website is shown). You can see it highlighted in blue below, right next to the outline of the star.
+
+<hr>
+
+![Address bar of a browser that shows how to toggle to reader view.](img/accessible_reader.png)
+
+<hr>
+
+The blue button to the left of the star allows you to adjust the font, text size, line spacing, word spacing, character spacing, and other options to make the text more readable. You can also change the colours and contrast of the page. Below shows an example of what a scientific manuscript looks like in reader view.
+
+![Manuscript in Biology Letters shown in reader view on the website.](img/accessibility.png)
+
+Not every website allows you to toggle to reader view, but many do. And reader view is available on most modern browsers, including Google Chrome, Firefox, and Microsoft Edge.
+
+
+
+
 
 
 
